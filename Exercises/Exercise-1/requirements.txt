@@ -1,1 +1,5 @@
 requests==2.27.1
+pandas
+beautifulsoup4
+aiohttp
+aiofiles
