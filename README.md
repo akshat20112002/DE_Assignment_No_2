@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Data Engineering Practice Problems
 
 One of the main obstacles of Data Engineering is the large
@@ -100,3 +101,6 @@ The [tenth exercise](https://github.com/danielbeach/data-engineering-practice/tr
 This exercise is to help you learn Data Quality, specifically a tool called Great Expectations. You will
 be given an existing datasets in CSV format, as well as an existing pipeline. There is a data quality issue 
 and you will be asked to implement some Data Quality checks to catch some of these issues.
+=======
+# DE_Assignment_No_2
+>>>>>>> f268d01
