@@ -3,79 +3,63 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 import pandas as pd
 from zipfile import ZipFile
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import random
 
 BASE_URL = "https://www.ncei.noaa.gov/data/local-climatological-data/access/2021/"
 DOWNLOAD_DIR = Path("downloads")
-TARGET_TIMESTAMP = "2024-01-19 14:51"
-MAX_WORKERS = 10  # Number of concurrent downloads
+TARGET_TIMESTAMP = "2024-01-19 15:45"
 
 
-def ensure_download_dir():
+def setup_dirs():
     DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"Downloads folder ready at: {DOWNLOAD_DIR}")
 
 
-def get_html(url):
-    response = requests.get(url)
-    response.raise_for_status()
-    return response.text
-
-
-def find_files_by_timestamp(html, timestamp):
-    soup = BeautifulSoup(html, "html.parser")
-    files = []
-    for row in soup.find_all("tr"):
-        cols = row.find_all("td")
-        if len(cols) < 2:
-            continue
-        last_modified = cols[1].get_text(strip=True)
-        link = row.find("a")
-        if link and last_modified == timestamp:
-            filename = link.get("href")
-            files.append(filename)
-    return files
+def get_files_by_timestamp(url, timestamp):
+    soup = BeautifulSoup(requests.get(url).text, "html.parser")
+    return [
+        row.find("a")["href"]
+        for row in soup.find_all("tr")
+        if len(row.find_all("td")) > 1
+        and row.find_all("td")[1].get_text(strip=True) == timestamp
+    ]
 
 
 def analyze_csv(file_path):
-    """
-    Print only the timestamp and highest HourlyDryBulbTemperature.
-    """
     df = pd.read_csv(file_path, low_memory=False)
-
     if "HourlyDryBulbTemperature" not in df.columns or "DATE" not in df.columns:
+        print(f"{file_path.name}: Missing required columns")
         return
 
+    df["DATE"] = pd.to_datetime(df["DATE"], errors="coerce")
     df["HourlyDryBulbTemperature"] = pd.to_numeric(
         df["HourlyDryBulbTemperature"], errors="coerce"
     )
-    max_temp = df["HourlyDryBulbTemperature"].max(skipna=True)
-    max_records = df[df["HourlyDryBulbTemperature"] == max_temp]
+    max_temp = df["HourlyDryBulbTemperature"].max()
+    max_records = df[df["HourlyDryBulbTemperature"] == max_temp][
+        ["DATE", "HourlyDryBulbTemperature"]
+    ]
 
-    # Print only DATE (timestamp) and HourlyDryBulbTemperature
-    print(max_records[["DATE", "HourlyDryBulbTemperature"]].to_string(index=False))
+    print(f"\nAnalysis for {file_path.name}:")
+    for _, row in max_records.iterrows():
+        date_time = row["DATE"]
+        print(
+            f"Date: {date_time.date()}, Time: {date_time.time()}, Temp: {row['HourlyDryBulbTemperature']}"
+        )
 
 
-def download_and_process(filename):
-    url = BASE_URL + filename
+def process_file(filename):
     local_path = DOWNLOAD_DIR / filename
     if not local_path.exists():
-        print(f"Downloading {filename} ...")
-        response = requests.get(url, stream=True)
-        response.raise_for_status()
+        print(f"Downloading {filename}...")
         with open(local_path, "wb") as f:
-            for chunk in response.iter_content(chunk_size=1024):
-                if chunk:
-                    f.write(chunk)
-        print(f"Downloaded {filename}")
+            f.write(requests.get(BASE_URL + filename).content)
 
     csv_files = []
     if filename.endswith(".zip"):
-        with ZipFile(local_path, "r") as zip_ref:
-            extracted = zip_ref.namelist()
+        with ZipFile(local_path) as zip_ref:
             zip_ref.extractall(DOWNLOAD_DIR)
             csv_files.extend(
-                [DOWNLOAD_DIR / f for f in extracted if f.endswith(".csv")]
+                DOWNLOAD_DIR / f for f in zip_ref.namelist() if f.endswith(".csv")
             )
     elif filename.endswith(".csv"):
         csv_files.append(local_path)
@@ -85,23 +69,18 @@ def download_and_process(filename):
 
 
 def main():
-    ensure_download_dir()
-    html = get_html(BASE_URL)
-    files = find_files_by_timestamp(html, TARGET_TIMESTAMP)
+    setup_dirs()
+    files = get_files_by_timestamp(BASE_URL, TARGET_TIMESTAMP)
 
     if not files:
-        print("No files found with the specified timestamp.")
+        print(f"No files found with timestamp {TARGET_TIMESTAMP}")
         return
 
-    print(f"Found {len(files)} file(s) with timestamp {TARGET_TIMESTAMP}: {files}")
-
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(download_and_process, f) for f in files]
-        for future in as_completed(futures):
-            try:
-                future.result()
-            except Exception as e:
-                print(f"Error processing a file: {e}")
+    print(f"Found {len(files)} files with timestamp {TARGET_TIMESTAMP}")
+    chosen_file = random.choice(files)
+    print(f"Selected: {chosen_file}")
+    process_file(chosen_file)
+    print(f"Analysis completed for {chosen_file}")
 
 
 if __name__ == "__main__":
