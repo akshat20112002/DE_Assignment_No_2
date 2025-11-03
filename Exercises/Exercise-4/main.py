@@ -27,7 +27,7 @@ def main():
             # Print flattened data
             print(f"\nFlattened Data for {file.name}:\n")
             print(df)
-            print("\n" + "="*150 + "\n")
+            print("\n" + "="*100 + "\n")
 
         except Exception as e:
             print(f"Failed to process {file}: {e}")
