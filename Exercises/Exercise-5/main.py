@@ -21,6 +21,8 @@ def main():
         data_dir = os.path.join(base_dir, "data")
         tables = ["accounts", "products", "transactions"]
 
+        print(base_dir)
+        print(data_dir)
         # Load CSV data
         for table in tables:
             csv_path = os.path.join(data_dir, f"{table}.csv")

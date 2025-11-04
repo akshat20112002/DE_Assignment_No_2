@@ -1,17 +1,16 @@
 version: "3.9"
 
 services:
-  # 🐘 Optional PostgreSQL container
   postgres:
     image: postgres:14
     container_name: exercise-5-postgres
     restart: always
     environment:
-      - POSTGRES_USER=akshat
-      - POSTGRES_PASSWORD=akshat20112002
-      - POSTGRES_DB=exercise5
+      POSTGRES_USER: akshat
+      POSTGRES_PASSWORD: akshat20112002
+      POSTGRES_DB: exercise5
     ports:
-      - "5434:5432"  # Use a different port to avoid clashing with your host 5433
+      - "5433:5432"
     volumes:
       - ./postgres-data:/var/lib/postgresql/data
     healthcheck:
@@ -20,20 +19,22 @@ services:
       timeout: 5s
       retries: 5
 
-  # 🧪 Testing container
   test:
     image: "exercise-5"
     container_name: exercise-5-test
     volumes:
       - .:/app
     command: python3 -m pytest
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
     depends_on:
       postgres:
         condition: service_healthy
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_USER: akshat
+      DB_PASSWORD: akshat20112002
+      DB_NAME: exercise5
 
-  # 🚀 Main application runner
   run:
     image: "exercise-5"
     container_name: exercise-5-run
@@ -42,15 +43,12 @@ services:
     env_file:
       - .env
     environment:
-      # For host machine DB (default)
-      - DB_HOST=${DB_HOST:-host.docker.internal}
-      - DB_PORT=${DB_PORT:-5433}
-
-      # If you want to use the internal postgres container instead, set:
-      # DB_HOST=postgres
-      # DB_PORT=5432
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
+      RUNNING_IN_DOCKER: "true"
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_USER: akshat
+      DB_PASSWORD: akshat20112002
+      DB_NAME: exercise5
     command: python3 main.py
     depends_on:
       postgres:
