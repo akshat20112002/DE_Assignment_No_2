@@ -1,0 +1,7 @@
+# Ignore local database data and other unnecessary files
+postgres-data/
+Postgres-compose-setup/postgres_data/
+__pycache__/
+*.pyc
+*.log
+.env
