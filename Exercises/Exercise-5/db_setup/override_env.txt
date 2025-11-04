@@ -1,9 +1,0 @@
-# Linux / Ubuntu
-export DB_USER=akshat
-export DB_PASSWORD=developer
-export DB_NAME=mydb
-
-# Windows PowerShell
-setx DB_USER "akshat"
-setx DB_PASSWORD "secret123"
-setx DB_NAME "mydb"
