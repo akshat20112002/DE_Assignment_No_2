@@ -1,0 +1,581 @@
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/21/temp_shuffle_189a07cb-d86b-4ee9-aff6-d70909b7bba0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/00/temp_shuffle_a1b54ed2-0dab-4ec6-8458-f25842a24256
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2d/temp_shuffle_08819347-c786-435b-9ba5-b5ee09094363
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_87281465-917c-4ae0-8545-a3a9780209e5
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/35/temp_shuffle_e90a0eaf-e56b-48f6-a143-1e5b75accf80
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3f/temp_shuffle_9adccfdc-db18-4631-9360-a8d2bda191e4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/16/temp_shuffle_ae7bd8e4-805b-481b-89c5-7aba350db7b8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_f377945f-c589-4141-ac59-5dcdab3a21e4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/25/temp_shuffle_e34752c6-7ae4-4259-8dd2-a1bf84f0ef8a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/20/temp_shuffle_f648f132-cb68-4e2a-bce3-bff448fc4efc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/06/temp_shuffle_1cd357a5-b02b-4a3d-818a-22fa5d9f6cf6
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_65ea8e4f-ff0e-4060-b06a-73d64f067985
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2d/temp_shuffle_0d9d4547-fee0-4a40-a891-a558740545d3
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/17/temp_shuffle_a79aca3f-1231-4a95-8ab2-f60c33c7e2df
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_0aa80c09-ba45-4de7-a5ef-8840172cb5ea
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/07/temp_shuffle_7466ad4d-5f7b-412c-8f28-fa7d058035a4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3a/temp_shuffle_ab9dc697-f496-4eef-8954-de8d1bd0ec30
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/27/temp_shuffle_eb7c874f-8395-4e53-8204-1b2567730b4e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3b/temp_shuffle_91004b8e-7b1c-4776-8848-e6ed9776f1db
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0a/temp_shuffle_b9b2dae7-176b-4f2e-8e02-4e26fbe26ddc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/31/temp_shuffle_5dace071-78a4-44e4-9239-8a692e180ca6
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3d/temp_shuffle_9582f6e9-ae69-47d7-b326-6f40c13e87d7
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1f/temp_shuffle_b9dbd7ba-6495-4e23-90e4-f3aa8142c004
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/26/temp_shuffle_c0f9bf42-06fb-4c5b-9c55-b12de33f5ca4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/12/temp_shuffle_d0dc4f77-bf28-4b4e-bc8e-66c328272594
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_7567a58c-ef12-4490-b185-db2ad6139afd
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_3a05a3cd-b4c0-4980-b986-54ca1d1208fe
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_c81a3eec-e4dc-477e-bc1c-407d713971ed
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/10/temp_shuffle_2c5158e9-860e-48c7-a6bb-a13da145f58b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_8c312d63-0a0d-4626-8cfc-2aadc6acd150
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/26/temp_shuffle_e4a571d5-96d8-49c5-a869-3778374e0dde
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/27/temp_shuffle_6f686ff7-4913-4719-87ca-dc0318682feb
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/15/temp_shuffle_c2b4f762-a24e-44e1-b8f2-1890dbd0ff06
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/05/temp_shuffle_2d5f2214-dc6e-4696-9d99-3ca2892ea323
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0b/temp_shuffle_2aabf1ea-43c4-431b-b6bb-7a91a3d61a89
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/37/temp_shuffle_aaee2eb4-46d6-4091-bf1d-cdd9ab1c8526
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/11/temp_shuffle_c7a7b107-fb83-4850-b287-1e3cadd9ebd0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_c6528e07-f67c-4cae-b9df-d63367607b19
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/14/temp_shuffle_c941a925-2315-474c-b506-eab1ed78cc6d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_c536a96c-22a3-4db0-8a56-5496fe4ddc85
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1d/temp_shuffle_fd1bcd2f-f05b-41fd-b737-cfdb79a44a71
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/22/temp_shuffle_c6a608ed-5236-4ee6-9990-53901f767c24
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_13cb1f78-8fc5-4389-b95d-0c583f21b1d9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/11/temp_shuffle_e56c43f6-c7e6-4b75-a10d-895f6fb364cc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/22/temp_shuffle_0e08fe93-d00e-4562-9548-411652c431c4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/11/temp_shuffle_18b5bf4f-6200-4f39-90f2-8c5ab8e1cadb
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_269b3d82-d4c9-444a-9c19-5dcbcee771a0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1b/temp_shuffle_ee085c67-4208-41f9-91e1-1eef0b4e31b9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_030ca56a-5544-490f-a664-0cea94ae2e31
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_1bf48179-ecfb-4b18-b366-a59d0b03d07f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2a/temp_shuffle_2920267c-4bd3-49ac-8e14-821fd96c3172
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_088c1610-5bda-4ef7-b4fc-3ce4b3a5470d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_93592d7d-83bb-4898-ac8a-47b933d20526
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2e/temp_shuffle_b8054b37-2fa3-4631-8607-0c9bcb684512
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_d9c91f98-d9b1-4c67-a6c2-3ff95bd53eaf
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_94d58a6e-6d95-44bb-bc57-ce4be235df98
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_20d76123-85ce-40a3-adcc-64a9f0f0bcc2
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/25/temp_shuffle_f0514b10-16dd-42cb-94a1-120b43b7205d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_c37a67e7-3fb8-4afc-91d6-3688d7ab2493
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0b/temp_shuffle_1d931fd4-53aa-43d1-b583-7de174a28999
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/32/temp_shuffle_d706c068-6018-41e6-ae50-6ebc6caec82c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_8276e637-3d24-410f-9bfc-b846abf3181c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2a/temp_shuffle_623b9e94-58f9-455c-b284-8ce5a8a9d5fe
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1d/temp_shuffle_8726d1b8-86d2-4218-b6b2-6199194f5199
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3b/temp_shuffle_14dfd018-3d43-42b4-af3b-a25756554e01
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/10/temp_shuffle_2614263c-e3a5-426b-aa36-4170301927cb
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_65169328-281f-4e28-9d9d-5706fdc4934d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/22/temp_shuffle_152f7f25-3fa9-4bf5-8ac6-b1f8479a7f0f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/22/temp_shuffle_e47886e4-c234-4aa4-b4f8-ea89f002193f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/39/temp_shuffle_8cfa068b-01cf-45dd-99c6-70665097949b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/19/temp_shuffle_ce623d15-022e-4ada-9120-80a17bf4bdde
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0c/temp_shuffle_cea81e9b-64fb-4ec8-9fcb-f07087293d7b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/06/temp_shuffle_1e5b477b-b13a-4c48-a1f3-77c5ccb72558
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2a/temp_shuffle_a7aae844-6be7-42d3-bc92-73e369618b0e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1f/temp_shuffle_ff4baf3d-7bad-4cae-97f9-6b7f18440c03
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/07/temp_shuffle_68a5c000-f7ff-494f-8cd9-2388f6d57169
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_c300043b-25d9-4df9-b353-f0bd4731f429
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_eb11c504-c01b-4789-a487-a8da7018450b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_42d0dc47-c51e-4964-8996-565db04c9f79
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_b81d5946-5b88-43ef-ae96-2c74e8b16712
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3b/temp_shuffle_d1fe9b25-237d-40b9-99fa-cef18dd03644
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3d/temp_shuffle_eb6533aa-95e8-4c17-86f5-8f1e3b4754ae
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/25/temp_shuffle_d476fa16-2d33-4a8a-85a6-65c1affa8cc4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_ae3a5027-d460-45ab-a51a-0666394c1023
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/12/temp_shuffle_90a24c35-365d-4ecd-a731-02d8f4e1e9e9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_03aecd6d-3315-4105-b696-8476993b907d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/14/temp_shuffle_0556a522-a144-4514-b462-29863ad65960
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_d8132be1-f0bd-42dd-908f-02dba758add0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/35/temp_shuffle_3a54b823-09be-46de-a50a-786597e6b645
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_8a81d925-ecb7-458b-985f-2a57ac41d78f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2b/temp_shuffle_f0856d29-ae7c-4faa-8b84-502372f1954b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1d/temp_shuffle_5153632e-b927-4c6c-9b77-e5c420b9a787
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_40cbab94-b73b-4a51-804c-904ec18e626b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/09/temp_shuffle_a7aa23bf-5657-43cd-a909-304d1557fc0a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3d/temp_shuffle_37b72d6b-7abb-4532-a32d-6297db06c6d6
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_c4bbd87e-7148-46db-acb4-7e2cb2dd456b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0b/temp_shuffle_8bc474e2-2cd2-4d0a-8b92-2ce6c3065586
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0a/temp_shuffle_bb3d77eb-195f-4adf-9a98-60b164b771f8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/27/temp_shuffle_68edb4b2-0fa2-4d46-ad3a-aa22144a9312
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_38e6f1dc-fb69-41bb-aaa8-254ced3dc7d5
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3b/temp_shuffle_21e5b2a0-3550-42ca-9dac-36f96c428c64
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/36/temp_shuffle_5752474f-f3ad-440d-be0b-cd5d1702569b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0b/temp_shuffle_28b15c93-9afc-4685-b8db-bf236f235ee6
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/31/temp_shuffle_b0a52005-9561-4ab3-8f2c-5ae19345fc12
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3e/temp_shuffle_fecfc4b6-8ce7-4d57-b1cf-96b43cd1c659
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0a/temp_shuffle_4b68919b-d2f8-44fc-b448-175fc23efeb8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/32/temp_shuffle_84695c9e-cb7c-4976-b36f-d62ed20a92f5
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_b8ac580f-c145-49df-90a7-dd59ef523dae
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/22/temp_shuffle_2f1420fa-f1da-4049-8d3a-1af98d271209
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2a/temp_shuffle_36d54964-b734-4ddb-b619-abb4bc3e5984
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_914934db-9157-462c-a9ac-6127317cc5e1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/05/temp_shuffle_4f156f5e-59f3-4b5b-a45a-fcc249be69ea
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_69b186f4-1798-4828-ab48-af111a491318
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/21/temp_shuffle_bc95d0cf-4aba-4f52-9ec0-39936102f20a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0b/temp_shuffle_65e59387-74fc-4a1a-a2e1-731af2cef4b0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_9a5b6e74-f41c-4973-bb9f-fc3d67ee0a4f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/08/temp_shuffle_78d32409-0871-4058-89ce-ba30988d449d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_ea307bae-52d1-419c-ac93-1697fcd82e8d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2b/temp_shuffle_00aac2db-29c8-45b4-88ac-223ec5e51f5d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_2631947d-b5f5-4b89-b573-ba9b655cfe28
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/18/temp_shuffle_8b6613a0-5cd2-4f4a-976c-461ceece4a01
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_b7288c35-9d55-4d37-9765-fc975809df25
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/10/temp_shuffle_eb1938ab-7db4-4f0f-8580-bc69bbdca608
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/14/temp_shuffle_5720b14c-b195-43c3-a31c-7398ec11c252
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/05/temp_shuffle_8cd2cbd3-62a6-49ed-8da7-ea61c51c4281
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/02/temp_shuffle_aa75e7b0-3803-41ed-a30e-aa96fb218b37
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_872384d6-cb0b-482c-9a4b-9b7d7c89e369
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/37/temp_shuffle_39a9f1de-b09b-46ac-9073-0c8ae1cb8cac
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/08/temp_shuffle_e5ce54e9-466d-4a37-b102-43304bbb0c38
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_54b6d355-e0ba-47aa-8f74-41ebf2f9b771
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_d5dd5860-ad87-4fad-b7f2-3099f67d6e49
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_75e87877-d394-48b8-893a-e055b0d77213
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0b/temp_shuffle_c04d45fa-4e53-4c49-bf83-c15c2f73c1e0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_907804aa-9597-4d58-8526-00c30c1eec75
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0c/temp_shuffle_12db8c58-d5f6-4246-90d5-07b24216ebee
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0c/temp_shuffle_a17b8d76-9be8-4d0d-8df0-717916c19e19
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_ff83f4c5-0ec6-4f45-babb-19629df3180b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/18/temp_shuffle_fd22026a-ae8c-4cb5-b0ab-04163eb70e36
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/17/temp_shuffle_fa81951d-379e-4e37-8e05-951c6ae132ec
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_26f773e8-b55d-4e11-bb02-5a581725072d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/17/temp_shuffle_5fd4c88b-cf78-45fd-ad35-2be2a100d999
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/32/temp_shuffle_d2bc0188-25e6-4eb6-bb16-4a67cbb28918
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/06/temp_shuffle_44aeeda8-c549-484d-80a9-f9f9091aa033
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/35/temp_shuffle_c962e64d-dd93-400a-ac25-91e7fd5cf7e7
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_ef9827eb-e809-4785-a94b-d15817e1880a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/37/temp_shuffle_183e5bd5-937b-4d5d-bf30-a47283a540e4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/09/temp_shuffle_9a3a88d6-bae1-4218-b480-8b553e797e2f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_a29aae6d-e52a-43c6-811a-167b68012ae0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_43981365-f533-433c-a440-488e73639c5d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3e/temp_shuffle_86c93e85-0e03-44bc-9668-be40a03d8a80
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_c2a52b42-225c-4bf9-9b07-717d6d43fed5
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3d/temp_shuffle_619fe98e-42df-42e7-89a4-562401551da1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/20/temp_shuffle_fa60cf00-de2b-4751-a64b-040ba50685dc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/26/temp_shuffle_a4525209-b359-4541-9bf4-b12834590fb3
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/03/temp_shuffle_ce00512b-079c-49c5-a9cc-159b140d8f75
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_9cf7a40a-86f6-4ce3-b76d-01c5f9d6a153
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3a/temp_shuffle_1d7e8ee2-2fda-4a4f-9168-5c6476d00d3b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/16/temp_shuffle_c9d5fa8a-1be8-47b4-beef-6855a9584745
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/12/temp_shuffle_47597360-bd5a-445e-85ff-b3c154b23b79
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/20/temp_shuffle_072432f0-3fc7-442f-b81e-2cbd10d7231e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3d/temp_shuffle_b2784c5a-f37d-4f05-9126-43be21513627
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_24dfcb49-e5a5-4db0-b4f7-66dcc296a7fd
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/05/temp_shuffle_777239d8-06e5-4efc-b806-9ae8088fca7a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_7667b8f0-8f4c-432f-b813-5d4e05a73e22
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/23/temp_shuffle_41395025-c8a1-4931-a971-8cfec1546dcc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/36/temp_shuffle_2be7b96f-cb00-4532-9371-90ab32e1005a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/05/temp_shuffle_4f9e5e3d-af4f-44b5-9f73-ed260e22fccf
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/09/temp_shuffle_996aeb32-2d07-4f14-900f-cf279f31fcf8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1b/temp_shuffle_80bd964d-5063-4f06-a264-aa56dc0b0ef1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/06/temp_shuffle_e17fb426-e539-4c07-acef-088cbb82c0d1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2d/temp_shuffle_589e1fd3-9af0-4993-b288-239f510fc555
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/03/temp_shuffle_2fb9d75d-951b-4c22-8cdb-69d957a52b3a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_6a2fa4d4-d9f9-4174-a842-b9e1f2db4506
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/02/temp_shuffle_93ae4546-9358-486a-b833-467e5c5ed071
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/06/temp_shuffle_a725020f-ccad-48f3-829b-3c597433fb88
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2c/temp_shuffle_300cb260-f6b9-4930-9d17-4397da96af72
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/26/temp_shuffle_7387415d-a1c1-4e14-85a9-2468dbb83826
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_976127d1-5b69-4e91-933c-6ecfc12487b4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_13c78cfb-0778-43e8-bbaa-aae159fd6d83
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/03/temp_shuffle_82f38263-ce40-40e4-92e9-452cadeca12c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_6e071ae9-21b2-4409-bc4f-70b985851a69
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_41e30132-8418-45a7-95bd-c28352b108e4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_b4ed6f50-f541-4114-9583-2b7636780ccd
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_4ff5f782-a67e-457f-bf66-4db6d0d8cc3e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/10/temp_shuffle_f518a2ce-415c-492d-8e77-0a34e10229d4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/13/temp_shuffle_e3889613-6a14-4e42-8ce6-d2837b867995
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/08/temp_shuffle_89ece428-2919-4d8e-9c11-8cac2074c291
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/27/temp_shuffle_2079e6cd-950d-4874-a36c-609aab3d72a6
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/36/temp_shuffle_56321ca5-564f-44dc-9623-ea5618eb5438
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/08/temp_shuffle_31704e7a-1866-4c52-8b12-9342d780a900
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/32/temp_shuffle_9d417215-fde7-44c1-abb6-adfb5140241e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3e/temp_shuffle_afe0777b-fa1c-47d6-a258-df8422e0da84
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_324be151-0b79-4f1f-ad07-d92f458946f7
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_5e848a07-26d6-4836-9649-b5074cc075ed
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/17/temp_shuffle_813eefa8-6eab-4cb9-be38-ae695f32a133
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/02/temp_shuffle_01a59a71-b6d9-4b4b-b90d-c67dede2a54b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_83ca321b-d1d8-49e1-9863-8ce2c34377f9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_be109262-c933-443a-9ae3-39dd5d66a9ee
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_109ed04f-f62f-44ef-80c4-b8227ac2de28
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/09/temp_shuffle_9ef62443-da4d-4891-a120-e7138d1eb105
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/27/temp_shuffle_d8f25253-a40a-4ec3-a3ed-65bfab6b02eb
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_d127a049-2160-4454-8106-d836a7cac1e4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_43fa298d-3668-451e-ba20-72400805c0b8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/36/temp_shuffle_23e5a022-1b18-4f7d-9bb4-a0c76149e539
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/17/temp_shuffle_0ac467a6-8f57-40b4-bd1b-6e7e83e6dafc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2e/temp_shuffle_5b617fc0-441c-4790-872f-4d916b6b933a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3a/temp_shuffle_6537281b-6c43-428d-b4a1-ed261ab65173
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_912e5d16-b02c-4273-acbf-5ed4e1c6b7f1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_8c3b14eb-9896-4795-83fd-cf4d3683625d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_a1940cb0-086c-4e70-8e18-d02931fa16f3
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/20/temp_shuffle_a7ced717-a077-461e-8b80-0ba7d1433811
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3b/temp_shuffle_700cdec6-ba58-451b-82f0-b89e14524132
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/31/temp_shuffle_b450abca-91a1-4f2e-8bc3-9d4d656a5dda
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/19/temp_shuffle_3a0de319-5d63-40e2-a13c-a36a7535c702
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1f/temp_shuffle_0a8e8521-1322-42db-910c-1f40ff4df6c9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2a/temp_shuffle_d60d8b6c-a8a0-4606-82ec-92f108168cac
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/07/temp_shuffle_0bfe5e9e-0a50-4ce3-9ea7-bf5744da4915
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/39/temp_shuffle_18bc3719-09a5-4a2c-924b-aa5bdbd0f73e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_1cd1cba7-8832-4e57-b932-90407616d9ba
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/21/temp_shuffle_42fbb6ed-d9ba-434e-a0c1-77e6a59be09d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_1d3ecdd9-0309-494a-a263-2df0fbd2aedc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/04/temp_shuffle_a4c6aff6-0340-4309-bb03-6b4cc9e86705
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_e6e8fd76-3035-44c4-b76e-40950e57bbf9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_a4fee66b-b1b3-498e-a6de-acb07e5a0f19
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_3be4c8a3-64cf-48a2-8c53-b546b405fade
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/24/temp_shuffle_5d152af3-1ba2-4964-a909-7ccd26265f64
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_def0bea6-87ff-4b4a-ae01-dbe4277c1115
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_3e476755-0fc7-48b4-9059-2df82859eeb0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_840412c9-011c-444a-a51f-e64e4d288cd5
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_63877d80-2d3e-41a8-950b-e0e6bb9c2666
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_b7f90744-6a84-4edc-88f9-a9ccb4f8eb33
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/32/temp_shuffle_a7e34a8a-5aa5-45e0-a813-5d9b0d679d73
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/25/temp_shuffle_9bb490fc-d971-4011-8ba7-6924aa30ec5c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/23/temp_shuffle_637c1729-b493-44de-8ff4-dfbec7cf0733
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/35/temp_shuffle_b7114344-72ab-415c-820b-a8155dc833b0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_a5b8cc15-1228-4585-b69a-e9e2fda2f949
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/10/temp_shuffle_ac6dca41-78be-4c9b-b259-6e34b34eefab
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_b7361c08-034e-43d7-88a5-1fd7f493ea2b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_21a9e031-9843-4b76-98b8-2ea2772cbed3
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_328a1a5b-ca5c-462f-8e64-e8296c081179
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_575517bc-b5f8-4299-89de-658db284a939
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_15f36f5c-ab5c-49fd-9eac-11a916fad841
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_a99ca33d-7437-4ba2-929e-2aa41b48fd09
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_8eee049a-3df5-4523-9d21-04518fc1e53d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_b2355927-75fc-4bde-8e10-1082dc1eeaf0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_0c664473-aed9-4175-bd82-ba0e9d1a5afa
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/09/temp_shuffle_360015c6-d0f7-4f56-a82d-cd472198f67d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_89d04fa9-3373-4985-8244-6b960e4ec96f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_d89a399c-f739-4ff4-b677-4887abf08077
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/02/temp_shuffle_d01e1b2d-f826-4f6d-bd88-8e0e6559febd
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/37/temp_shuffle_fe921813-442d-4378-8143-8c2fae358961
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_ad704566-5cf2-400d-8ebc-208d8144341d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1f/temp_shuffle_28cd89f2-d12c-46cd-9199-999a99a79b39
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_1823683e-f034-45a0-9298-4977a0aa71cc
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/03/temp_shuffle_f6e2796a-7358-4118-a656-783d79df3f7a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_67d613db-8206-4edb-8a55-fc7eea722a30
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_8939308b-b734-4ef6-82c7-d6e4cbded47b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/02/temp_shuffle_fb1f3829-f74a-448d-b8de-fdd466be3b74
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1f/temp_shuffle_676bc683-93b8-4fa8-b4a3-f462dd429771
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/23/temp_shuffle_f7ba4782-8c7a-4e50-8802-8e8418ef85ac
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/03/temp_shuffle_0b1b2284-ad65-4c66-8a6e-9dbdca3a52ac
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/13/temp_shuffle_add1753e-07a3-4b1b-a508-904de41a467a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_0220fee2-e861-436d-b40f-406d4f5d8ea9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2f/temp_shuffle_e7d8fa61-267b-4179-b833-e6c324070693
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1b/temp_shuffle_d32b2641-db84-49ab-acfd-ec9af85811f3
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1b/temp_shuffle_493ad201-8e92-491b-baab-ef9cc816d238
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/26/temp_shuffle_5cc4aec0-ba54-4771-b16d-2751500e59b0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3e/temp_shuffle_f30cf651-4706-4aee-a460-d907eca306a9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1f/temp_shuffle_fde646e5-3bd7-4deb-bd8e-ce1386a67047
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_bbd4518a-8291-4f4d-a210-7a67937206ee
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/07/temp_shuffle_0e23e226-2297-442a-83ce-daaaf179d9ea
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/14/temp_shuffle_cd09fd31-baf2-4bbd-b2de-925aa9b4b521
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/31/temp_shuffle_b8ae4d55-22c7-4765-b9e7-a7e4875de24c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2b/temp_shuffle_f9ee3496-2f03-4105-abe2-05d9581a0856
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2c/temp_shuffle_23895c89-bea8-4689-bdcd-616e1f572f4c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_198db6ef-58c1-4d7e-ab0e-bdd2831aeef1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/39/temp_shuffle_c0be90e7-4253-4be9-8960-f26e2205e95e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_e31e9ebf-d4f7-4a87-a538-c5c5cd3af32c
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/28/temp_shuffle_3cea83f6-46da-4823-907b-b205d7541dbd
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/08/temp_shuffle_b5e8ed24-32ca-4027-8653-d0382a41c185
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3a/temp_shuffle_270a9055-115c-4204-a552-e96a4debe1d1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_c81063bb-4e8c-46e0-ae09-422077384a98
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/39/temp_shuffle_20808e41-1766-425b-ae0c-f4e8066c6617
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/16/temp_shuffle_4d56cbfd-714f-4cbf-a87d-8880e7427cd8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/37/temp_shuffle_ac860eb5-869e-4805-8afc-3e985c80569f
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_16a34889-cbd9-4501-af45-48a26b455fe0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_32903714-c6e6-4cd7-a7ca-4c76cc26c9ae
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/23/temp_shuffle_ff9f4dea-aa36-4e84-950b-c6b31901211b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_8c7b0691-7f22-477c-ba1c-fe6d9bf10280
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_5003cea0-c5ed-4f79-a1b4-194c68499392
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/07/temp_shuffle_b360727c-c53d-439f-92d8-9a5808ddae3d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_82378d39-4f4e-4a76-92ab-8ea28ee68888
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/30/temp_shuffle_6e2feee8-9879-4925-83a7-b56076f373ec
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_2d794989-9472-4453-8bbd-ec3068f49c97
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_44d4b4ce-dc51-4774-9fb2-05dcb9b670b7
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/32/temp_shuffle_b7f1a03b-cbf1-4ee0-b9d7-0bcf1ea85590
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_23271abe-7940-4ce9-8852-5f0337232153
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_1cfb951b-eac9-4ba4-926f-f4425bfe6dd4
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0d/temp_shuffle_b8f4ff2c-a718-4e09-9178-68d8ca64c5ed
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/20/temp_shuffle_7cf9a9ca-5054-4bf9-be97-1572dec5d61a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_475c853e-3d05-4dc2-8ffa-f7aa5ba124c1
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/10/temp_shuffle_b1411a4e-9293-4a97-9c4c-ebaf93a44811
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/14/temp_shuffle_2cc67295-b15b-4b8f-b7a7-4645f6f7038d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/39/temp_shuffle_9b1ec510-b615-459a-97f8-7de149a999d5
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/35/temp_shuffle_bd50a262-5202-4095-82b7-6746874f154b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/23/temp_shuffle_df1c8a04-9285-43b5-b698-6dac624667f9
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/31/temp_shuffle_149ecf0c-b470-4e26-ada7-24f7608cc720
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/30/temp_shuffle_95ee09cc-bafa-4809-ba4e-ce0950132e73
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/39/temp_shuffle_7f35b4ac-8bfc-4d11-968a-71078b155e01
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/02/temp_shuffle_8b6e2e2b-8b6e-4d84-908c-bb0f1eb2b073
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3d/temp_shuffle_40d9c20a-76f7-4f83-ac4e-23088ea1fed6
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/12/temp_shuffle_79427b83-bcc9-4655-85d8-8ef19947bb39
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_cc5e11ee-2a19-42a5-aec6-7be28d091429
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_866d9cd4-0a54-4eb8-942e-eaf8153e23c8
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3a/temp_shuffle_95db97fb-9ddb-4e20-a0c6-3b2eca454c5b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0f/temp_shuffle_10c6faef-9037-4d2f-8ebb-9e063b0e2bb0
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3b/temp_shuffle_8b6cb44b-65aa-45ec-ba7f-d09a2cfdfffd
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/12/temp_shuffle_e78b75c7-0045-440d-b351-d40030a78b88
+25/11/07 10:35:49 ERROR Executor: Exception in task 2.0 in stage 3.0 (TID 8)
+org.apache.spark.SparkDateTimeException: [CAST_INVALID_INPUT] The value '' of the type "STRING" cannot be cast to "DATE" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018
+== DataFrame ==
+"to_date" was called from
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:115)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal$(ExecutionErrors.scala:102)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError(ExecutionErrors.scala:92)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError$(ExecutionErrors.scala:88)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeError(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.$anonfun$stringToDateAnsi$1(SparkDateTimeUtils.scala:400)
+        at scala.Option.getOrElse(Option.scala:201)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi(SparkDateTimeUtils.scala:400)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi$(SparkDateTimeUtils.scala:398)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils$.stringToDateAnsi(DateTimeUtils.scala:41)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils.stringToDateAnsi(DateTimeUtils.scala)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.writeFields_0_35$(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at scala.collection.Iterator$SliceIterator.next(Iterator.scala:1245)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at org.apache.spark.shuffle.sort.BypassMergeSortShuffleWriter.write(BypassMergeSortShuffleWriter.java:172)
+        at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:57)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:111)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+        at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:171)
+        at org.apache.spark.scheduler.Task.run(Task.scala:147)
+        at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$5(Executor.scala:647)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:80)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:77)
+        at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:99)
+        at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:650)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+25/11/07 10:35:49 ERROR Executor: Exception in task 0.0 in stage 3.0 (TID 6)
+org.apache.spark.SparkDateTimeException: [CAST_INVALID_INPUT] The value '' of the type "STRING" cannot be cast to "DATE" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018
+== DataFrame ==
+"to_date" was called from
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:115)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal$(ExecutionErrors.scala:102)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError(ExecutionErrors.scala:92)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError$(ExecutionErrors.scala:88)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeError(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.$anonfun$stringToDateAnsi$1(SparkDateTimeUtils.scala:400)
+        at scala.Option.getOrElse(Option.scala:201)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi(SparkDateTimeUtils.scala:400)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi$(SparkDateTimeUtils.scala:398)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils$.stringToDateAnsi(DateTimeUtils.scala:41)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils.stringToDateAnsi(DateTimeUtils.scala)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.writeFields_0_35$(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at scala.collection.Iterator$SliceIterator.next(Iterator.scala:1245)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at org.apache.spark.shuffle.sort.BypassMergeSortShuffleWriter.write(BypassMergeSortShuffleWriter.java:172)
+        at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:57)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:111)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+        at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:171)
+        at org.apache.spark.scheduler.Task.run(Task.scala:147)
+        at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$5(Executor.scala:647)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:80)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:77)
+        at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:99)
+        at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:650)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/33/temp_shuffle_28f1ab70-da3f-4c1f-bd33-4983984e0c02
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_254b1b6e-348e-409a-a9ac-0bcb1123f7b3
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/0e/temp_shuffle_89312485-fd7a-4cb2-a24d-108d22474300
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/00/temp_shuffle_90c2073c-4542-4ed6-9e62-009a675eef84
+25/11/07 10:35:49 ERROR Executor: Exception in task 1.0 in stage 3.0 (TID 7)
+org.apache.spark.SparkDateTimeException: [CAST_INVALID_INPUT] The value '' of the type "STRING" cannot be cast to "DATE" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018
+== DataFrame ==
+"to_date" was called from
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:115)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal$(ExecutionErrors.scala:102)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError(ExecutionErrors.scala:92)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError$(ExecutionErrors.scala:88)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeError(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.$anonfun$stringToDateAnsi$1(SparkDateTimeUtils.scala:400)
+        at scala.Option.getOrElse(Option.scala:201)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi(SparkDateTimeUtils.scala:400)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi$(SparkDateTimeUtils.scala:398)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils$.stringToDateAnsi(DateTimeUtils.scala:41)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils.stringToDateAnsi(DateTimeUtils.scala)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.writeFields_0_35$(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at scala.collection.Iterator$SliceIterator.next(Iterator.scala:1245)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at org.apache.spark.shuffle.sort.BypassMergeSortShuffleWriter.write(BypassMergeSortShuffleWriter.java:172)
+        at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:57)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:111)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+        at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:171)
+        at org.apache.spark.scheduler.Task.run(Task.scala:147)
+        at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$5(Executor.scala:647)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:80)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:77)
+        at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:99)
+        at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:650)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/00/temp_shuffle_a392d67b-8223-4076-85fc-b624dc75223a
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_6a44d5e4-0355-4a85-84e9-8ad2471bda89
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/31/temp_shuffle_19e20d93-3d87-4179-b27e-7d9f9f9db615
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/11/temp_shuffle_ab01d372-1e3e-49ba-adec-c4565bf1742b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/27/temp_shuffle_7d81dc7b-f667-4fad-9de3-bbcdca367286
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1e/temp_shuffle_b365f763-f533-4558-8a76-87c24618c970
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_a1ecfcc0-0eb0-46b0-9ed7-e2d41fa7ce31
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/3c/temp_shuffle_867bb958-1c83-4966-b400-728133863490
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/2a/temp_shuffle_1be2c978-931b-47d0-b93e-819b916d0c7e
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/20/temp_shuffle_661379dd-9766-4aba-b6cb-410b35955767
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/35/temp_shuffle_b9b250d9-4e85-4ff2-b6bb-dacb45740b83
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/38/temp_shuffle_384fed72-171d-4cc0-8153-039651c3c342
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/21/temp_shuffle_414bc76a-5b3f-40ad-8e98-bbdcd9d9f352
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/01/temp_shuffle_dcd1c42b-55b4-4a5b-b3c5-a992e8e3b273
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/09/temp_shuffle_7a06a620-58b7-48ae-8aa9-466efdd10604
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_a91e9064-aa61-4b5c-9eb7-e45deb5fda7b
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1b/temp_shuffle_01de99b8-c830-4c34-9170-a0f04e28d78d
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/04/temp_shuffle_f101c02b-52b3-4604-a906-c563bc35e2a2
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/29/temp_shuffle_984b4709-6860-44c4-af08-1a528f3b1e07
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1c/temp_shuffle_7aced81b-04f4-43c2-a10c-3b41d87c6124
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/34/temp_shuffle_fcba19e3-d84d-4c01-9c41-f2e34d7b85e7
+25/11/07 10:35:49 WARN DiskBlockObjectWriter: Error deleting /tmp/blockmgr-f85d7d6f-d3f3-410f-9479-664a36e28faf/1a/temp_shuffle_2492b2ad-d8a9-4347-8a13-d3e22725fa0a
+25/11/07 10:35:49 ERROR Executor: Exception in task 3.0 in stage 3.0 (TID 9)
+org.apache.spark.SparkDateTimeException: [CAST_INVALID_INPUT] The value '' of the type "STRING" cannot be cast to "DATE" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018
+== DataFrame ==
+"to_date" was called from
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:115)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal$(ExecutionErrors.scala:102)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError(ExecutionErrors.scala:92)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError$(ExecutionErrors.scala:88)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeError(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.$anonfun$stringToDateAnsi$1(SparkDateTimeUtils.scala:400)
+        at scala.Option.getOrElse(Option.scala:201)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi(SparkDateTimeUtils.scala:400)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi$(SparkDateTimeUtils.scala:398)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils$.stringToDateAnsi(DateTimeUtils.scala:41)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils.stringToDateAnsi(DateTimeUtils.scala)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.writeFields_0_35$(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at scala.collection.Iterator$SliceIterator.next(Iterator.scala:1245)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at org.apache.spark.shuffle.sort.BypassMergeSortShuffleWriter.write(BypassMergeSortShuffleWriter.java:172)
+        at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:57)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:111)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+        at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:171)
+        at org.apache.spark.scheduler.Task.run(Task.scala:147)
+        at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$5(Executor.scala:647)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:80)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:77)
+        at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:99)
+        at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:650)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+Exception ignored in: <_io.BufferedWriter name=5>
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/python/lib/pyspark.zip/pyspark/daemon.py", line 200, in manager
+BrokenPipeError: [Errno 32] Broken pipe
+Exception ignored in: <_io.BufferedWriter name=5>Exception ignored in: <_io.BufferedWriter name=5>
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/python/lib/pyspark.zip/pyspark/daemon.py", line 200, in manager
+BrokenPipeError: [Errno 32] Broken pipe
+
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/python/lib/pyspark.zip/pyspark/daemon.py", line 200, in manager
+BrokenPipeError: [Errno 32] Broken pipe
+Exception ignored in: <_io.BufferedWriter name=5>
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/python/lib/pyspark.zip/pyspark/daemon.py", line 200, in manager
+BrokenPipeError: [Errno 32] Broken pipe
+25/11/07 10:35:49 WARN TaskSetManager: Stage 4 contains a task of very large size (17843 KiB). The maximum recommended task size is 1000 KiB.
+25/11/07 10:35:49 WARN TaskSetManager: Lost task 0.0 in stage 3.0 (TID 6) (192.168.29.13 executor driver): org.apache.spark.SparkDateTimeException: [CAST_INVALID_INPUT] The value '' of the type "STRING" cannot be cast to "DATE" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018
+== DataFrame ==
+"to_date" was called from
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:115)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal$(ExecutionErrors.scala:102)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError(ExecutionErrors.scala:92)
+        at org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError$(ExecutionErrors.scala:88)
+        at org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeError(ExecutionErrors.scala:259)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.$anonfun$stringToDateAnsi$1(SparkDateTimeUtils.scala:400)
+        at scala.Option.getOrElse(Option.scala:201)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi(SparkDateTimeUtils.scala:400)
+        at org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi$(SparkDateTimeUtils.scala:398)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils$.stringToDateAnsi(DateTimeUtils.scala:41)
+        at org.apache.spark.sql.catalyst.util.DateTimeUtils.stringToDateAnsi(DateTimeUtils.scala)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.writeFields_0_35$(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at scala.collection.Iterator$SliceIterator.next(Iterator.scala:1245)
+        at scala.collection.Iterator$$anon$9.next(Iterator.scala:584)
+        at org.apache.spark.shuffle.sort.BypassMergeSortShuffleWriter.write(BypassMergeSortShuffleWriter.java:172)
+        at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:57)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:111)
+        at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+        at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:171)
+        at org.apache.spark.scheduler.Task.run(Task.scala:147)
+        at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$5(Executor.scala:647)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:80)
+        at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:77)
+        at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:99)
+        at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:650)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+
+25/11/07 10:35:49 ERROR TaskSetManager: Task 0 in stage 3.0 failed 1 times; aborting job
+25/11/07 10:35:49 WARN TaskSetManager: Lost task 3.0 in stage 4.0 (TID 13) (192.168.29.13 executor driver): TaskKilled (Stage cancelled: [SPARK_JOB_CANCELLED] Job 4 cancelled The corresponding SQL query has failed. SQLSTATE: XXKDA)
+25/11/07 10:35:49 WARN TaskSetManager: Lost task 1.0 in stage 4.0 (TID 11) (192.168.29.13 executor driver): TaskKilled (Stage cancelled: [SPARK_JOB_CANCELLED] Job 4 cancelled The corresponding SQL query has failed. SQLSTATE: XXKDA)
+25/11/07 10:35:49 WARN TaskSetManager: Lost task 2.0 in stage 4.0 (TID 12) (192.168.29.13 executor driver): TaskKilled (Stage cancelled: [SPARK_JOB_CANCELLED] Job 4 cancelled The corresponding SQL query has failed. SQLSTATE: XXKDA)
+{"ts": "2025-11-07 10:35:49.639", "level": "ERROR", "logger": "DataFrameQueryContextLogger", "msg": "[CAST_INVALID_INPUT] The value '' of the type \"STRING\" cannot be cast to \"DATE\" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018", "context": {"file": "java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)", "line": "", "fragment": "to_date", "errorClass": "CAST_INVALID_INPUT"}, "exception": {"class": "Py4JJavaError", "msg": "An error occurred while calling o117.showString.\n: org.apache.spark.SparkDateTimeException: [CAST_INVALID_INPUT] The value '' of the type \"STRING\" cannot be cast to \"DATE\" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018\n== DataFrame ==\n\"to_date\" was called from\njava.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\n\tat org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:115)\n\tat org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeErrorInternal$(ExecutionErrors.scala:102)\n\tat org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeErrorInternal(ExecutionErrors.scala:259)\n\tat org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError(ExecutionErrors.scala:92)\n\tat org.apache.spark.sql.errors.ExecutionErrors.invalidInputInCastToDatetimeError$(ExecutionErrors.scala:88)\n\tat org.apache.spark.sql.errors.ExecutionErrors$.invalidInputInCastToDatetimeError(ExecutionErrors.scala:259)\n\tat org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.$anonfun$stringToDateAnsi$1(SparkDateTimeUtils.scala:400)\n\tat scala.Option.getOrElse(Option.scala:201)\n\tat org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi(SparkDateTimeUtils.scala:400)\n\tat org.apache.spark.sql.catalyst.util.SparkDateTimeUtils.stringToDateAnsi$(SparkDateTimeUtils.scala:398)\n\tat org.apache.spark.sql.catalyst.util.DateTimeUtils$.stringToDateAnsi(DateTimeUtils.scala:41)\n\tat org.apache.spark.sql.catalyst.util.DateTimeUtils.stringToDateAnsi(DateTimeUtils.scala)\n\tat org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.writeFields_0_35$(Unknown Source)\n\tat org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)\n\tat org.apache.spark.sql.catalyst.expressions.GeneratedClass$SpecificUnsafeProjection.apply(Unknown Source)\n\tat scala.collection.Iterator$$anon$9.next(Iterator.scala:584)\n\tat scala.collection.Iterator$SliceIterator.next(Iterator.scala:1245)\n\tat scala.collection.Iterator$$anon$9.next(Iterator.scala:584)\n\tat org.apache.spark.shuffle.sort.BypassMergeSortShuffleWriter.write(BypassMergeSortShuffleWriter.java:172)\n\tat org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:57)\n\tat org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:111)\n\tat org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)\n\tat org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:171)\n\tat org.apache.spark.scheduler.Task.run(Task.scala:147)\n\tat org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$5(Executor.scala:647)\n\tat org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:80)\n\tat org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:77)\n\tat org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:99)\n\tat org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:650)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)\n\tat java.base/java.lang.Thread.run(Thread.java:840)\n", "stacktrace": [{"class": null, "method": "deco", "file": "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/errors/exceptions/captured.py", "line": "282"}, {"class": null, "method": "get_return_value", "file": "/home/developer/miniconda3/lib/python3.13/site-packages/py4j/protocol.py", "line": "327"}]}}
+Traceback (most recent call last):
+  File "/home/developer/Data Engineering Assignment 2/data-engineering-practice/Exercises/Exercise-7/main.py", line 46, in <module>
+    main()
+    ~~~~^^
+  File "/home/developer/Data Engineering Assignment 2/data-engineering-practice/Exercises/Exercise-7/main.py", line 41, in main
+    df.show(truncate=False)
+    ~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/sql/classic/dataframe.py", line 285, in show
+    print(self._show_string(n, truncate, vertical))
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/sql/classic/dataframe.py", line 316, in _show_string
+    return self._jdf.showString(n, int_truncate, vertical)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/py4j/java_gateway.py", line 1362, in __call__
+    return_value = get_return_value(
+        answer, self.gateway_client, self.target_id, self.name)
+  File "/home/developer/miniconda3/lib/python3.13/site-packages/pyspark/errors/exceptions/captured.py", line 288, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.DateTimeException: [CAST_INVALID_INPUT] The value '' of the type "STRING" cannot be cast to "DATE" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate malformed input and return NULL instead. SQLSTATE: 22018
+== DataFrame ==
+"to_date" was called from
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+25/11/07 10:35:49 WARN TaskSetManager: Lost task 0.0 in stage 4.0 (TID 10) (192.168.29.13 executor driver): TaskKilled (Stage cancelled: [SPARK_JOB_CANCELLED] Job 4 cancelled The corresponding SQL query has failed. SQLSTATE: XXKDA)
+(base) ➜  Exercise-7 git:(main) ✗ 
