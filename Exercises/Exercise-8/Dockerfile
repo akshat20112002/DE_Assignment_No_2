@@ -1,10 +1,9 @@
-FROM ubuntu:18.04
+FROM ubuntu:22.04
 
 RUN apt-get update && \
-    apt-get install -y vim software-properties-common python3.8 python3-pip libpq-dev build-essential libssl-dev libffi-dev python3-dev && \
-    apt-get clean
+    apt-get install -y python3 python3-pip vim software-properties-common
 
-WORKDIR app
+WORKDIR /app
 COPY . /app
 
 RUN pip3 install -r requirements.txt

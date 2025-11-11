@@ -19,12 +19,14 @@ def queries():
     #model year parquet stays same
     conn.execute(
         """
-        copy(
-        select model_year, count(*) as counting
-        from DuckDB group by model_year
-        ) to 'Output/model_year.parquet' (format 'parquet', partition_by (model_year));
-
+        COPY (
+            SELECT model_year, count(*) AS counting
+            FROM DuckDB GROUP BY model_year
+        )
+        TO 'Output/model_year.parquet'
+        (FORMAT PARQUET, PARTITION_BY (model_year), OVERWRITE_OR_IGNORE TRUE);
         """
     )
+
 
     conn.close()
