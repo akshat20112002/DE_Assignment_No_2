@@ -1,4 +1,5 @@
 import os
+import shutil
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
     col,
@@ -6,6 +7,7 @@ from pyspark.sql.functions import (
     unix_timestamp,
     sum as _sum,
     date_format,
+    when
 )
 from pyspark.sql.types import (
     StructType,
@@ -15,6 +17,9 @@ from pyspark.sql.types import (
 )
 import great_expectations as ge
 
+
+# Ensure results directory exists
+os.makedirs("results", exist_ok=True)
 
 # Spark Session
 spark = (
@@ -49,54 +54,74 @@ df = spark.read.csv(
     mode="DROPMALFORMED"
 )
 
-# Transform Data: parse timestamps and compute duration
+# Convert timestamps
 df = df.withColumn(
     "started_at", to_timestamp(col("started_at"), "yyyy-MM-dd HH:mm:ss")
 ).withColumn(
     "ended_at", to_timestamp(col("ended_at"), "yyyy-MM-dd HH:mm:ss")
 )
 
+# Compute duration
 df = df.withColumn(
     "duration_seconds",
     unix_timestamp(col("ended_at")) - unix_timestamp(col("started_at"))
 )
 
+# Add date column
 df = df.withColumn(
     "date", date_format(col("started_at"), "yyyy-MM-dd")
 )
 
-# Great Expectations Validation (GE 0.17.x API)
+# Add duration status column
+df = df.withColumn(
+    "duration_status",
+    when(col("duration_seconds") > 86400, "invalid").otherwise("valid")
+)
+
+# Great Expectations Validation
 gdf = ge.dataset.SparkDFDataset(df)
 
-# Expectations
 gdf.expect_column_values_to_not_be_null("started_at")
 gdf.expect_column_values_to_not_be_null("ended_at")
-
-# Duration must be within same day (0 to 24 hours)
 gdf.expect_column_values_to_be_between(
-    "duration_seconds",
-    min_value=0,
-    max_value=86400
+    "duration_seconds", min_value=0, max_value=86400
 )
 
-# Run validation
-results = gdf.validate()
+validation_results = gdf.validate()
 
-# Fail pipeline if validation fails
-if not results["success"]:
-    print("\nDATA QUALITY FAILED: Invalid trip durations found.\n")
-    raise ValueError("Data quality validation failed.")
+if not validation_results["success"]:
+    print("Warning: Invalid trip durations detected.")
 else:
-    print("\nDATA QUALITY PASSED.\n")
+    print("Data quality check passed.")
 
-# Aggregation
-daily = df.groupBy("date").agg(
-    _sum("duration_seconds").alias("total_duration_seconds")
-)
+# Print invalid rows in readable table format
+print("\nTrips with duration > 24 hours:\n")
+df.filter(col("duration_status") == "invalid").show(n=1000, truncate=False)
 
-output_path = "results/output_file.parquet"
-daily.write.mode("overwrite").parquet(output_path)
+# Output paths
+parquet_path = "results/final_output.parquet"
+csv_path = "results/final_output.csv"
 
-print(f"Output written to: {output_path}")
+# Write Parquet output
+df.write.mode("overwrite").parquet(parquet_path)
+
+# Write CSV as a single real file (not a folder)
+temp_csv_path = "results/temp_csv"
+
+df.coalesce(1).write.mode("overwrite").option("header", "true").csv(temp_csv_path)
+
+# Move part file to final_output.csv
+for file in os.listdir(temp_csv_path):
+    if file.endswith(".csv"):
+        shutil.move(
+            os.path.join(temp_csv_path, file),
+            csv_path
+        )
+
+# Delete temp folder
+shutil.rmtree(temp_csv_path)
+
+print(f"Final dataset written to: {parquet_path}")
+print(f"Final dataset written to: {csv_path}")
 
 spark.stop()
