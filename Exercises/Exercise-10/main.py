@@ -1,3 +1,4 @@
+import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
     col,
@@ -11,13 +12,19 @@ from pyspark.sql.types import (
     StructField,
     StringType,
     DoubleType,
-    TimestampType,
+)
+import great_expectations as ge
+
+
+# Spark Session
+spark = (
+    SparkSession.builder
+    .appName("BikeRideDuration")
+    .master("local[*]")
+    .getOrCreate()
 )
 
-# Create a SparkSession
-spark = SparkSession.builder.appName("BikeRideDuration").getOrCreate()
-
-# Define the schema based on the provided CSV structure
+# Define Schema
 schema = StructType([
     StructField("ride_id", StringType(), True),
     StructField("rideable_type", StringType(), True),
@@ -34,15 +41,15 @@ schema = StructType([
     StructField("member_casual", StringType(), True),
 ])
 
-input_csv_path = "data/202306-divvy-tripdata.csv"
-
+# Load CSV
 df = spark.read.csv(
-    input_csv_path,
+    "data/202306-divvy-tripdata.csv",
     header=True,
     schema=schema,
     mode="DROPMALFORMED"
 )
 
+# Transform Data: parse timestamps and compute duration
 df = df.withColumn(
     "started_at", to_timestamp(col("started_at"), "yyyy-MM-dd HH:mm:ss")
 ).withColumn(
@@ -58,11 +65,38 @@ df = df.withColumn(
     "date", date_format(col("started_at"), "yyyy-MM-dd")
 )
 
-daily_durations = df.groupBy("date").agg(
+# Great Expectations Validation (GE 0.17.x API)
+gdf = ge.dataset.SparkDFDataset(df)
+
+# Expectations
+gdf.expect_column_values_to_not_be_null("started_at")
+gdf.expect_column_values_to_not_be_null("ended_at")
+
+# Duration must be within same day (0 to 24 hours)
+gdf.expect_column_values_to_be_between(
+    "duration_seconds",
+    min_value=0,
+    max_value=86400
+)
+
+# Run validation
+results = gdf.validate()
+
+# Fail pipeline if validation fails
+if not results["success"]:
+    print("\nDATA QUALITY FAILED: Invalid trip durations found.\n")
+    raise ValueError("Data quality validation failed.")
+else:
+    print("\nDATA QUALITY PASSED.\n")
+
+# Aggregation
+daily = df.groupBy("date").agg(
     _sum("duration_seconds").alias("total_duration_seconds")
 )
 
-output_parquet_path = "results/output_file.parquet"
-daily_durations.write.mode("overwrite").parquet(output_parquet_path)
+output_path = "results/output_file.parquet"
+daily.write.mode("overwrite").parquet(output_path)
 
+print(f"Output written to: {output_path}")
 
+spark.stop()
